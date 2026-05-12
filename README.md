@@ -1,12 +1,12 @@
 
-## 💻 Portfólio - Nayara Santos
+### 💻 Portfólio - Nayara Santos
 
 Este é meu projeto de portfólio pessoal desenvolvido com HTML e CSS.  
 Ele foi criado com o objetivo de apresentar minhas habilidades, formação e projetos na área de desenvolvimento web.
 
 ---
 
-## 🔨 Funcionalidades do projeto
+### 🔨 Funcionalidades do projeto
 
 - Página inicial com apresentação pessoal e links para redes sociais
 - Página "Sobre mim" com descrição da minha trajetória
@@ -17,13 +17,13 @@ Ele foi criado com o objetivo de apresentar minhas habilidades, formação e pro
 
 ---
 
-## 📸 Demonstração do projeto
+### 📸 Demonstração do projeto
 
-<img width="1300" height="750" alt="pagina-inicial" src="https://github.com/user-attachments/assets/c4f1951d-99c4-40b7-acd3-a2901172c862" />
+<img width="800" height="450" alt="pagina-inicial" src="https://github.com/user-attachments/assets/c4f1951d-99c4-40b7-acd3-a2901172c862" />
 
 ---
 
-## ✔️ Tecnologias e técnicas utilizadas
+### ✔️ Tecnologias e técnicas utilizadas
 
 - HTML5 → estrutura do site  
 - CSS3 → estilização  
@@ -33,5 +33,5 @@ Ele foi criado com o objetivo de apresentar minhas habilidades, formação e pro
 
 ---
 
-## 🌐 Acesse o projeto online
-
+### 🌐 Acesse o projeto online
+[acesse aqui] (https://portfolio-nayara-three.vercel.app/)
