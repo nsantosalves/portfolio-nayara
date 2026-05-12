@@ -34,4 +34,4 @@ Ele foi criado com o objetivo de apresentar minhas habilidades, formação e pro
 ---
 
 ### 🌐 Acesse o projeto online
-[acesse aqui] (https://portfolio-nayara-three.vercel.app/)
+[acesse o projeto aqui](https://portfolio-nayara-three.vercel.app/)
